@@ -1,5 +1,7 @@
 # COREDuino
-O COREduino é Kit de desenvolvimento Open Hardware baseado no Arduino com o microcontroladores PIC18F4550, esse kit diferente do Arduino já conta com diversos periféricos em seu hardware. Possibilitando assim aos seus usuários colocar em pratica diversos conceitos de eletrônica e programação, sem necessidade de um circuito externo.
+O COREduino é Kit de desenvolvimento Open Hardware baseado no Arduino e no Pinguino com o microcontroladores PIC18F4550, esse kit diferente do Arduino e do Pinguino já conta com diversos periféricos em seu hardware. Possibilitando assim aos seus usuários colocar em pratica diversos conceitos de eletrônica e programação, sem necessidade de um circuito externo.
+Mais Informações sobre o Projeto Pinguino no Link:
+http://www.pinguino.cc/
 
 #O hardware
 O Hardwaredo COREduino conta com o microcontrolador PIC18F4550 da Microchip. É microcontrolador de 8 bit que possui 32 kB de memoria Flash, 2 kB de memoria RAM, com Clock máximo de 48MHz e ADC de 10 bit. 

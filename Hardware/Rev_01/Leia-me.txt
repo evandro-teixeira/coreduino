@@ -1,0 +1,12 @@
+/*****************************************************************/
+Atenção!!!
+
+Esta versão ainda não foi testada!
+Foram substituidos os reguladores de tensão.
+
+/*****************************************************************/
+Attention!!!
+
+This version has not been tested yet!
+Voltage regulators have been replaced.
+/*****************************************************************/

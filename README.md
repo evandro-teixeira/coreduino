@@ -28,3 +28,7 @@ A placa do COREduino possui diversos periféricos que auxiliam no desenvolviment
 
 #Licença
 Como dito acima o COREduino trata-se um projeto Open Hardware, o projeto da placa foi desenvolvido e publicado sob a licença Creative Commons Attribution-ShareAlike 4.0 International Public License.
+
+http://coretools.com.br/site/educacionais/
+
+https://www.embarcados.com.br/coreduino-pic18f4550/
